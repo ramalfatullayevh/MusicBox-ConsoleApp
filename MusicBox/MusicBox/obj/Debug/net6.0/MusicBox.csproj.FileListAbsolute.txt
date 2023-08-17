@@ -1,0 +1,15 @@
+C:\Users\Ramal\Desktop\MiniProject\MusicBox\MusicBox\bin\Debug\net6.0\MusicBox.exe
+C:\Users\Ramal\Desktop\MiniProject\MusicBox\MusicBox\bin\Debug\net6.0\MusicBox.deps.json
+C:\Users\Ramal\Desktop\MiniProject\MusicBox\MusicBox\bin\Debug\net6.0\MusicBox.runtimeconfig.json
+C:\Users\Ramal\Desktop\MiniProject\MusicBox\MusicBox\bin\Debug\net6.0\MusicBox.dll
+C:\Users\Ramal\Desktop\MiniProject\MusicBox\MusicBox\bin\Debug\net6.0\MusicBox.pdb
+C:\Users\Ramal\Desktop\MiniProject\MusicBox\MusicBox\obj\Debug\net6.0\MusicBox.csproj.AssemblyReference.cache
+C:\Users\Ramal\Desktop\MiniProject\MusicBox\MusicBox\obj\Debug\net6.0\MusicBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ramal\Desktop\MiniProject\MusicBox\MusicBox\obj\Debug\net6.0\MusicBox.AssemblyInfoInputs.cache
+C:\Users\Ramal\Desktop\MiniProject\MusicBox\MusicBox\obj\Debug\net6.0\MusicBox.AssemblyInfo.cs
+C:\Users\Ramal\Desktop\MiniProject\MusicBox\MusicBox\obj\Debug\net6.0\MusicBox.csproj.CoreCompileInputs.cache
+C:\Users\Ramal\Desktop\MiniProject\MusicBox\MusicBox\obj\Debug\net6.0\MusicBox.dll
+C:\Users\Ramal\Desktop\MiniProject\MusicBox\MusicBox\obj\Debug\net6.0\refint\MusicBox.dll
+C:\Users\Ramal\Desktop\MiniProject\MusicBox\MusicBox\obj\Debug\net6.0\MusicBox.pdb
+C:\Users\Ramal\Desktop\MiniProject\MusicBox\MusicBox\obj\Debug\net6.0\MusicBox.genruntimeconfig.cache
+C:\Users\Ramal\Desktop\MiniProject\MusicBox\MusicBox\obj\Debug\net6.0\ref\MusicBox.dll
